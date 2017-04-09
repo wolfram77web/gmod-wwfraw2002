@@ -1,3 +1,14 @@
+# =========================
+# Output Files
+# =========================
+
+out/
+
+
+# =========================
+# Operating System Files
+# =========================
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -17,10 +28,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# =========================
-# Operating System Files
-# =========================
 
+# =========================
 # OSX
 # =========================
 
